@@ -17,7 +17,7 @@ from absl import app
 import pdb
 
 import attention as att
-#import bilstm as bi
+import bilstm as bi
 
 import h5py
 
